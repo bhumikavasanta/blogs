@@ -1,0 +1,56 @@
+.title {
+    /* display: flex; */
+    /* justify-content: center; */
+    font-weight: bold;
+    font-size: 2rem;
+    /* width: 100%; */
+}
+
+.input {
+    background-color: #967AA1;
+    color: #192A51;
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 2rem;
+    display: flex;
+    justify-content: center;
+    width: 56%;
+    place-self: center;
+}
+
+.content {
+    /* display: flex; */
+    /* justify-content: center; */
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+.titleInputBox {
+    margin: 0 1rem;
+    border-radius: 1rem;
+    width: 20rem;
+    height: 4rem;
+}
+
+.contentInputBox {
+    margin: 0 1rem;
+    border-radius: 1rem;
+    width: 30rem;
+    height: 15rem;
+}
+
+.editButton {
+
+}
+
+.addButton {
+    padding: 1.5rem;
+}
+
+.addEditButton {
+    background-color: #192A51;
+    color: #F5E6E8;
+    font-size: xx-large;
+    padding: 0.5rem 8.5rem;
+    border-radius: 1rem;
+}

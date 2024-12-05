@@ -1,0 +1,28 @@
+.container {
+    background-color: #192A51;
+    color: #F5E6E8;
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+.outerContainer {
+    text-align: center;
+    padding: 3rem;
+}
+
+.heading {
+    /* border: 1px solid black; */
+    font-weight: bold;
+    font-size: 4rem;
+    padding: 1rem;
+}
+
+.blogs {
+    /* border: 1px solid black; */
+    padding: 2rem;
+    font-weight: bold;
+    font-size: 2rem;
+}
